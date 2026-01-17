@@ -1,0 +1,8 @@
+# i18n artifacts
+*.mo
+*.gmo
+
+# Editor files
+.idea/
+.vscode/
+*.swp
